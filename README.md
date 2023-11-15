@@ -1,6 +1,6 @@
 # Jefferson Dark Theme
 
-[![](https://img.shields.io/badge/Marketplace-VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/Marketplace-VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Jeffersonfed.jeffersonfed-dark-theme)
 
 ## Why I create this Theme?
 - This is the theme that I've been using for almost a year.
