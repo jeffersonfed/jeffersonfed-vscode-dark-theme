@@ -1,16 +1,21 @@
-# jeffersonfed-dark README
+# Jefferson Dark Theme
 
-## Working with Markdown
+[![](https://img.shields.io/badge/Marketplace-VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)]()
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Why I create this Theme?
+- I can see more clearly with a dark theme background (like my life).
+- So my eyes don't keep getting flashbangs after using VS Code for over 2 hours.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Screenshot
+<img src="screenshot/sce1.png">
+<img src="screenshot/sce2.png">
+<img src="screenshot/sce4.png">
+<img src="screenshot/sce3.png">
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Support Me!
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
+
+

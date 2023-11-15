@@ -1,12 +1,12 @@
 {
   "name": "jeffersonfed-dark-theme",
   "displayName": "Jeffersonfed Dark",
-  "description": "The theme that I've been using for, since my eye can't see too bright and",
+  "description": "The theme that I've been using for almost a year.",
   "version": "0.0.1",
   "publisher": "Jeffersonfed",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jeffersonfed/jeffersonfed-vscode-dark-theme"
   },
   "keywords": [
     "theme",
