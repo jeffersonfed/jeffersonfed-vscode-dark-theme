@@ -1,8 +1,19 @@
 {
-  "name": "jeffersonfed-dark",
+  "name": "jeffersonfed-dark-theme",
   "displayName": "Jeffersonfed Dark",
-  "description": "Jefferson Dark Theme",
+  "description": "The theme that I've been using for, since my eye can't see too bright and",
   "version": "0.0.1",
+  "publisher": "Jeffersonfed",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "jeffersonfed",
+    "eye problem"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -12,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jefferson Dark Theme",
+        "label": "Jeffersonfed Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jefferson Dark Theme-color-theme.json"
+        "path": "./themes/Jeffersonfed Dark Theme-color-theme.json"
       }
     ]
   }
