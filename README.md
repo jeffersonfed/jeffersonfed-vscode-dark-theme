@@ -6,6 +6,7 @@
 - I can see more clearly with a dark theme background (like my life).
 - So my eyes don't keep getting flashbangs after using VS Code for over 2 hours.
 
+#### Note: This is my first time creating a theme, so I know it might not be perfect. Sorry, but any advice is welcome.
 
 ## Screenshot
 <img src="screenshot/sce1.png">
