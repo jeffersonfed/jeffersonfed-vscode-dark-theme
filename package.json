@@ -1,0 +1,21 @@
+{
+  "name": "jeffersonfed-dark",
+  "displayName": "Jeffersonfed Dark",
+  "description": "Jefferson Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jefferson Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jefferson Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
