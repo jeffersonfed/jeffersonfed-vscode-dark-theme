@@ -18,4 +18,14 @@
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
 
+## Author
+
+- Jefferson
+    - [Github](https://github.com/jeffersonfed)
+    - [Twitter](https://twitter.com/jeffersonfed14)
+
+## License
+
+- [CC0 1.0 Universal](LICENSE)
+
 
