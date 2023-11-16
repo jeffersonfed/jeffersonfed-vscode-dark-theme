@@ -30,7 +30,7 @@
 [MarketplaceLink]: https://marketplace.visualstudio.com/items?itemName=Jeffersonfed.jeffersonfed-dark-theme
 
 
-[UpdateBadge]: https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed-vscode-dark-theme?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat
+[UpdateBadge]: https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed-vscode-dark-theme?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=plastic
 
 [UpdateLink]: https://github.com/jeffersonfed/jeffersonfed-vscode-dark-theme
 
