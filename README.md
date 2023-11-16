@@ -7,24 +7,17 @@
 
 </h2>
 
+## Note: This is my Personal Theme that I've been using for almost a year. Any advice is welcome.
+
 ## Why I create this Theme?
-- This is the theme that I've been using for almost a year.
 - I can see more clearly with a dark theme background (like my life).
 - So my eyes don't keep getting flashbangs after using VS Code for over 2 hours.
-
-### Note: Any advice is welcome.
 
 ## Screenshot
 <img src="screenshot/sce1.png">
 <img src="screenshot/sce2.png">
 <img src="screenshot/sce4.png">
 <img src="screenshot/sce3.png">
-
-## Author
-
-- [Jefferson][Github]
-
-
 
 
 
