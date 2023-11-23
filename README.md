@@ -1,6 +1,21 @@
 # Jefferson Dark Theme
 
+
+<div style="font-size: 20px">
+  
+11/16/2023: Published to VSCode Marketplace<br>
+11/23/2023: I've decided to unpublish this theme for personal reasons. However, if someone finds it and wants to use it, feel free to do so.
+<br><br>
+<b>Before Unpublished:</b><br>
+Install: 13<br>
+Rating 5⭐: 2<br>
+Rating 4⭐: 1<br>
+other⭐   : - 
+
+</div>
+
 <h2 align="center">
+
 
 [![Marketplace][MarketplaceBadge]][MarketplaceLink]
 [![Updated Badge][UpdateBadge]][UpdateLink]
@@ -25,7 +40,7 @@
 <!-- Links -->
 <!-- ============== -->
 
-[MarketplaceBadge]: https://img.shields.io/badge/Marketplace-VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white
+[MarketplaceBadge]: https://img.shields.io/badge/Marketplace-Unpublished-red?style=plastic&logo=visual%20studio%20code&logoColor=white
 
 [MarketplaceLink]: https://marketplace.visualstudio.com/items?itemName=Jeffersonfed.jeffersonfed-dark-theme
 
